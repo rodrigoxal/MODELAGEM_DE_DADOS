@@ -1,0 +1,13 @@
+
+
+ 
+1) 400 pts. Minimundo do projeto dividido em: cenário, objetivos  e resultados esperados.
+2) 400 pts. Requisitos do projeto.
+3) 400 pts. Descrição das entidades e seus atributos na forma de dicionário de dados.
+4) 400 pts. Modelo Conceitual do banco de dados, destacando as chaves primárias, chaves estrangeiras e cardinalidade.
+5) 400 pts. Modelo Relacional feito em Power BI.
+6) 400 pts. Aplicação no Power BI.
+7) 400 pts. Cronograma.
+8) Apresentação salva no github: 100
+9) 900 pts. (Nota individual na apresentação). Qualidade dos slides, qualidade da apresentação.
+10) 200 pts. Tempo de apresentação
