@@ -1,0 +1,21 @@
+IDProduto,NomeProduto,Categoria,PrecoUnitario
+101,Camiseta Polo,Roupas,59.9
+102,Tênis Esportivo,Calçados,199.9
+103,Calça Jeans,Roupas,129.9
+104,Jaqueta Corta-Vento,Roupas,249.9
+105,Relógio Digital,Acessórios,149.9
+106,Mochila Escolar,Acessórios,89.9
+107,Smartphone X,Eletrônicos,1299.0
+108,Fone Bluetooth,Eletrônicos,199.0
+109,Smartwatch Y,Eletrônicos,499.9
+110,"Tablet 10""",Eletrônicos,899.9
+111,Bola de Futebol,Esportes,79.9
+112,Bicicleta Infantil,Esportes,599.0
+113,Capacete de Ciclismo,Esportes,139.9
+114,Kit Pesca Iniciante,Esportes,149.9
+115,Liquidificador 3 Veloc.,Eletrodomésticos,129.0
+116,Ferro de Passar,Eletrodomésticos,89.9
+117,Jogo de Panelas (5 pcs),Utilidades,249.9
+118,Ventilador de Mesa,Eletrodomésticos,159.9
+119,Cadeira Gamer,Móveis,799.0
+120,Escrivaninha Compacta,Móveis,349.9
